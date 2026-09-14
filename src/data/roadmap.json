@@ -17,7 +17,7 @@
           "title": "Custom page cache tuning",
           "status": "planned",
           "priority": "high",
-          "description": "LRU cache exists but needs optimization per Gemini review. Most significant missing piece for production perf.",
+          "description": "LRU cache exists but needs optimization. Most significant missing piece for production perf.",
           "pillarsAffected": [
             "performance"
           ]

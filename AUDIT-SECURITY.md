@@ -1,6 +1,5 @@
 # Security & Compliance Pillar — Code-Grounded Audit
 
-**Auditor:** Claude (Opus 4.7, 1M-context, CodeGraph-grounded)
 **Audit date:** 2026-05-13
 **Pillar:** Security & Compliance (3 metrics: Access Control, Encryption, Auditing)
 **Audience:** US DoD presentation prep — claims must be defensible against adversarial scrutiny
